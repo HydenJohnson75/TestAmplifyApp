@@ -17,7 +17,7 @@
     "abab": "^2.0.6", 
     "domexception": "^2.0.1",
     "w3c-hr-time": "^1.0.2",
-    "sourcemap-codec": "^1.4.15",
+    "sourcemap-codec": "^1.4.8",
     "@babel/plugin-proposal-private-methods": "^7.2.1-26",
     "@babel/plugin-proposal-numeric-separator": "^7.2.1-26",
     "@babel/plugin-proposal-nullish-coalescing-operator": "^ 7.2.1-26",
