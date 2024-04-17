@@ -1,0 +1,101 @@
+{
+  "auth": {
+    "testamplifyapp": {
+      "customAuth": false,
+      "dependsOn": [],
+      "providerPlugin": "awscloudformation",
+      "service": "Cognito",
+      "serviceType": "imported"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_auth_testamplifyapp_allowUnauthenticatedIdentities": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "testamplifyapp"
+        }
+      ]
+    },
+    "AMPLIFY_auth_testamplifyapp_authRoleArn": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "testamplifyapp"
+        }
+      ]
+    },
+    "AMPLIFY_auth_testamplifyapp_authRoleName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "testamplifyapp"
+        }
+      ]
+    },
+    "AMPLIFY_auth_testamplifyapp_identityPoolId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "testamplifyapp"
+        }
+      ]
+    },
+    "AMPLIFY_auth_testamplifyapp_identityPoolName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "testamplifyapp"
+        }
+      ]
+    },
+    "AMPLIFY_auth_testamplifyapp_nativeClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "testamplifyapp"
+        }
+      ]
+    },
+    "AMPLIFY_auth_testamplifyapp_unauthRoleArn": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "testamplifyapp"
+        }
+      ]
+    },
+    "AMPLIFY_auth_testamplifyapp_unauthRoleName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "testamplifyapp"
+        }
+      ]
+    },
+    "AMPLIFY_auth_testamplifyapp_userPoolId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "testamplifyapp"
+        }
+      ]
+    },
+    "AMPLIFY_auth_testamplifyapp_userPoolName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "testamplifyapp"
+        }
+      ]
+    },
+    "AMPLIFY_auth_testamplifyapp_webClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "testamplifyapp"
+        }
+      ]
+    }
+  }
+}
